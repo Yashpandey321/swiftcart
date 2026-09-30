@@ -1,0 +1,10 @@
+{
+  "name": "SwiftCart",
+  "description": "Shop Fast. Delivered Smarter. Modern consumer e-commerce package delivery platform featuring live parcel tracking, autonomous route optimization, and full order lifecycle management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
